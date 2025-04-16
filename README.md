@@ -16,7 +16,7 @@ Tambien los archivos javascript static/scripts/youtube.js y tiktok.js /const LOC
 
 ```bash
   apt install ffmpeg
-  git clone https://github.com/pes528/videoDownloader.git
+  git clone https://github.com/mig-af/videoDownloader.git
   cd videoDownloader
   python3 -m venv venv
   source venv/bin/activate
