@@ -18,6 +18,7 @@ Tambien los archivos javascript static/scripts/youtube.js y tiktok.js /const LOC
   apt install ffmpeg
   git clone https://github.com/pes528/videoDownloader.git
   cd videoDownloader
+  python3 -m venv venv
   source venv/bin/activate
   pip install -r requirements.txt
   python app.py
